@@ -1,0 +1,2 @@
+# riku.codes
+homepage
